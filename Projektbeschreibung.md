@@ -51,3 +51,11 @@ Es eignet sich sowohl als Lernprojekt für Java-Einsteiger im Bereich HTTP-Anfra
 - Fehlerbehandlung und Fallback-Strategien
 
 - Saubere Berechnungen mit BigDecimal
+
+## Demo:
+
+
+
+https://github.com/user-attachments/assets/ebf18eef-51b0-464b-84fc-413b9ffce43e
+
+
