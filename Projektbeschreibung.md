@@ -40,7 +40,6 @@ Es eignet sich sowohl als Lernprojekt für Java-Einsteiger im Bereich HTTP-Anfra
     Von Währung (z.B. EUR): EUR
     Nach Währung (z.B. USD): USD
 
-
 ## Lernziele
 
 Umgang mit HTTP-Requests in Java
