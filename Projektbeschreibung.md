@@ -42,12 +42,12 @@ Es eignet sich sowohl als Lernprojekt für Java-Einsteiger im Bereich HTTP-Anfra
 
 ## Lernziele
 
-Umgang mit HTTP-Requests in Java
+- Umgang mit HTTP-Requests in Java
 
-Nutzung von APIs und Parsing von JSON-Daten
+- Nutzung von APIs und Parsing von JSON-Daten
 
-Arbeiten mit Maven als Build Tool
+- Arbeiten mit Maven als Build Tool
 
-Fehlerbehandlung und Fallback-Strategien
+- Fehlerbehandlung und Fallback-Strategien
 
-Saubere Berechnungen mit BigDecimal
+- Saubere Berechnungen mit BigDecimal
